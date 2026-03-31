@@ -33,7 +33,3 @@ javac StudentManagement.java
 
 ### Step 2: Run
 java StudentManagement
-
----
-
-## 📂 Project Structure
